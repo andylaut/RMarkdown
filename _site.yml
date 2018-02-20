@@ -4,5 +4,4 @@ navbar:
   title: "3844 resources"
   left:
     - text: "Video and audio"
-      icon: fa-home
       href: index.html
