@@ -1,7 +1,7 @@
-name: "R Markdown website"
+name: "3844 resources"
 output_dir: "."
 navbar:
-  title: "Website title"
+  title: "3844 resources"
   left:
-    - text: "Overview"
+    - text: "Video and audio"
       href: index.html
