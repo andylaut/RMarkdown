@@ -1,0 +1,7 @@
+name: "R Markdown website"
+output_dir: "."
+navbar:
+  title: "Website title"
+  left:
+    - text: "Overview"
+      href: index.html
